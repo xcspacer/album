@@ -8,6 +8,36 @@
 
 <br />
 
+# Configurações:
+
+- Adicionar endereço da página
+```bash
+/application/config/config.php
+```
+```bash
+$config['base_url'] = '';
+```
+
+- Adicionar nome do banco, usuário e senha
+```bash
+/application/config/database.php
+```
+```bash
+'username' => '',
+'password' => '',
+'database' => '',
+```
+
+- Caminho e senha para login
+```bash
+SEU-ENDEREÇO/login
+```
+```bash
+Euro2022
+```
+
+<br />
+
 # Tecnologias:
 
 - PHP
