@@ -47,5 +47,5 @@ Euro2022
 # Clonando o repositório:
 Execute o seguinte comando no terminal:
 ```bash
-git clone https://github.com/syspacer/album.git
+git clone https://github.com/xcspacer/album.git
 ```
