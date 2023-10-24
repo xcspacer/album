@@ -24,6 +24,11 @@ $config['base_url'] = '';
 'database' => '',
 ```
 
+- Importar sql.sql para seu DB
+```bash
+sql.sql
+```
+
 - Endereço, e-mail e senha para login
 ```bash
 SEU-ENDEREÇO/login
