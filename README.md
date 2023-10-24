@@ -1,4 +1,4 @@
-# Álbum de imagens &nbsp; &nbsp;  [![GitHub go.mod Go version of a Go module](https://badgen.net/badge/Versão/1.0/green)](https://www.kcteles.com/)
+# Álbum de imagens
 
 <br />
 
@@ -41,11 +41,3 @@ Euro2022
 - jQuery 3.6.0
 - jQuery Mask Plugin v1.14.16 - [Site](https://igorescobar.github.io/jQuery-Mask-Plugin/)
 - Fullscreen Lightbox - [Site](https://fslightbox.com/)
-
-<br />
-
-# Clonando o repositório:
-Execute o seguinte comando no terminal:
-```bash
-git clone https://github.com/xcspacer/album.git
-```
